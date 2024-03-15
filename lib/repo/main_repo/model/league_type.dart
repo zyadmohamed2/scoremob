@@ -1,0 +1,1 @@
+enum LeagueTypeEnum { cup, league }
